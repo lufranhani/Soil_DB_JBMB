@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/991421114.svg)](https://doi.org/10.5281/zenodo.15540526)
+
 # Soil_DB_JBMB
 Repository of results obtained by soil analysis in Bauru Botanical Garden, SP, Brazil. 
 Variables considered on this study: 
