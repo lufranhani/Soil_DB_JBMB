@@ -4,7 +4,14 @@
 Repository of results obtained by soil analysis in Bauru Botanical Garden, SP, Brazil. 
 Variables considered on this study: 
 Sand, Silt and Clay proportions according to Bouyoucos Method (g kg-1). 
-Borum (B), Cooper (Cu), Iron (Fe), Manganese (Mn), Zincum (Zn), Phosphorous (P), Sulfur (S), Calcium (Ca), Magnesium (Mg), Potassium (K), Aluminum (Al), Nitrogen (N), Nitrogen Stable Isotope (N15), Carbon (C), Carbon Stabel Isotope (C13), Correlation of C divided by N (C/N), Potencial Acidity (H+Al), Sum of Bases (SB), Cation Exchange Capacity (CTC)), Latitude (Coord_X), Longitude (Coord_Y), Altitude (Coord_Z), Bulk Density (BD), Carbon Stocks (Cstock). 
+Borum (B), Cooper (Cu), Zincum (Zn), Iron (Fe), Phosphorous (P), Sulfur (S) and Manganese (Mn) = (mg.dm-3).
+Calcium (Ca), Magnesium (Mg), Potassium (K), Aluminum (Al), Potencial Acidity (H+Al), Sum of Bases (SB), and Cation Exchange Capacity (CTC) = (mmolc.dm-3). 
+Nitrogen (N) and Carbon (C) = (%).
+Carbon Stable Isotope (C13) and Nitrogen Stable Isotope (N15) = (δ X ‰).
+Correlation of C divided by N (C/N),
+Latitude (Coord_X), Longitude (Coord_Y) and Altitude (Coord_Z). 
+Bulk Density (BD). 
+Carbon Stocks (Cstock) = (Mg C ha -1). 
 
 For the entire database found in this repository:
 SSF = Semideciduous Seasonal Forest; 
