@@ -6,7 +6,7 @@ Variables considered on this study:
 Sand, Silt and Clay proportions according to Bouyoucos Method (g kg-1). 
 Borum (B), Cooper (Cu), Iron (Fe), Manganese (Mn), Zincum (Zn), Phosphorous (P), Sulfur (S), Calcium (Ca), Magnesium (Mg), Potassium (K), Aluminum (Al), Nitrogen (N), Nitrogen Stable Isotope (N15), Carbon (C), Carbon Stabel Isotope (C13), Correlation of C divided by N (C/N), Potencial Acidity (H+Al), Sum of Bases (SB), Cation Exchange Capacity (CTC)), Latitude (Coord_X), Longitude (Coord_Y), Altitude (Coord_Z), Bulk Density (BD), Carbon Stocks (Cstock). 
 
-For the entire database found in this repositorie:
+For the entire database found in this repository:
 SSF = Semideciduous Seasonal Forest; 
 DWS = Densely Woodded Savanna; 
 DA = Deforested Area.
