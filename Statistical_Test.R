@@ -14,7 +14,7 @@ library(gridExtra)
 
 set.seed(1234)
 rm(list = ls())
-setwd("C:/Users/lufra/OneDrive/buffet/Documentos/Análise Solos")
+setwd("")
 
 
 # =============================================================================
